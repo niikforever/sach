@@ -1,0 +1,86 @@
+.nav-item{
+    text-align: center;
+
+}
+
+/* hover on navabar */
+.nav-link:hover{
+    background-color: rgb(64, 106, 232);
+    border-radius: 100px;
+    
+ 
+}
+/* color of navabar */
+.bg{
+   background-image: linear-gradient(rgb(17, 102, 239),rgb(67, 136, 246),rgb(3, 81, 247));
+}
+.image{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+#download{
+    margin: 30px;
+    padding: 10px;
+    color:white;
+    font-size: large;
+    text-align: center;
+    border-radius: 30px;
+   background-image:linear-gradient(rgb(61, 183, 211),rgb(65, 62, 245),rgb(85, 136, 240));
+    text-decoration: none;
+
+}
+#download:hover{
+    opacity: 70%;
+    text-decoration: none;
+}
+#download2{
+    margin: 30px;
+    padding: 10px;
+    border: 2px solid rgb(0,123,255);
+    font-size: large;
+    text-align: center;
+    border-radius: 30px;
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+    
+}
+
+.download-link{
+color: white;
+text-decoration: none;
+text-align: center;
+}
+#private-file-heading{
+   
+    padding: 30px;
+    text-align: center;
+    size: 80px;
+}
+#textaboutprivateshare{
+    text-align: center;
+    padding: 5px;
+}
+.box_shadow{
+  border: 1px solid rgb(210, 207, 228);
+ background-color: rgb(236, 240, 248);
+  border-radius: 10px;
+}
+
+
+
+
+.font-style{
+    text-align: center;
+    padding: 10px;
+}
+.col-md-3{
+    text-align: center;
+}
+.col-md-4{
+    text-align: center;
+}
+#down-border{
+    border-top-left-radius:40px;
+    border-top-right-radius:40px;
+}
